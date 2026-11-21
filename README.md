@@ -55,4 +55,6 @@ When work falls short, the lab records what happened, investigates contributing 
 - [Evaluation evidence and planned checks](evidence/README.md)
 - [Reusable templates](templates/README.md)
 
-See the [licensing proposal](LICENSING.md) for the current status of reuse terms.
+## Licence and contact
+
+Original prose and templates: [CC BY-NC 4.0](LICENSING.md), with a request not to use the content for AI training. For commercial use, other permissions or to get in touch, [open an issue](https://github.com/oleksandraponomarenko/local-llm-lab-showcase/issues).
