@@ -50,7 +50,7 @@ Oleksandra sets the research goal and acceptance criteria, directs the work, rev
 When work falls short, the lab records what happened, investigates contributing causes and checks what changed after a correction. In one case this produced [a branching roadmap with explicit assumptions and dependencies](cases/case-001.md). In another it led to [two independent safety studies and a recorded correction to a research claim](cases/case-002.md).
 
 - [Methodology and quality checks](methodology/README.md)
-- [Synthetic example of a working task journal](journal/synthetic-examples/README.md)
+- [How the task journal works](journal/README.md)
 - [Cases](cases/README.md)
 - [Evaluation evidence and planned checks](evidence/README.md)
 - [Reusable templates](templates/README.md)

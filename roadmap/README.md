@@ -12,16 +12,20 @@ The [starting resources and working constraints](../evidence/2026-11-20-lab-prog
 flowchart TD
     Start["Available computer and research resources"] --> Base["Plan a small-model baseline and evaluation set"]
     Base --> Resources{"Are more compute resources available?"}
-    Resources -->|Current resources| Continue["Continue local tests and specification"]
+    Resources -->|Current resources| Continue["Prepare the first local tests and continue specification"]
     Resources -->|More resources| Scale["Evaluate larger models and additional capabilities"]
     Base --> Hybrid["Study a local core with bounded cloud services"]
     Continue --> Computer["Computer-based assistant"]
     Scale --> Computer
-    Scale --> Home["Possible later home integrations"]
-    Home --> Access["Define access and action permissions before connecting devices"]
+    Scale --> Access["Define access and action permissions"]
+    Access --> Home["Possible later home integrations"]
 ```
 
 The technical choices remain conditional on available resources, model support and the owner's priorities. The local-computer and possible hybrid directions are under study. Home integrations have their own access and permission requirements.
+
+### Planning for different funding scenarios
+
+Oleksandra kept the roadmap independent of any single funding source. The work possible with current resources has its own deliverables, and additional funding can open later branches while the research goal stays the same. The [research streams](../README.md#workstreams) guide the work across those branches.
 
 ## Stages and dependencies
 
