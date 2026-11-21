@@ -1,3 +1,3 @@
-# Evaluation summary
+# Evaluation summary template
 
-For each approved result, record the claim, method, version, observed result, repeatable check, public artifact and limitations.
+The [evaluation summary template](../templates/evaluation-summary.md) is available with the other reusable templates.

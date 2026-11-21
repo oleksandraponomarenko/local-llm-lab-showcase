@@ -12,6 +12,8 @@ The lab also documents a practical challenge Oleksandra set herself. How far can
 
 The system should do the work of adapting to Oleksandra so she can speak and work in her own way, with less need to rephrase requests to suit the model. The lab will investigate whether a system can adapt to how she reasons, the language she uses, what she already knows, and how her intentions and signals change with the situation. The same words can call for different responses depending on what came before, how tasks depend on one another, what she has corrected, and what she is trying to do now. A local core would let her carry useful context and feedback forward while controlling what the system remembers, what it shares, and when it changes. The lab will test whether adaptation makes the system more useful across her tasks and whether those gains carry over when she changes models.
 
+Keeping the core local is a privacy and engineering choice. The proposed system would keep personal context and memory under Oleksandra’s control and let her inspect what changed after an update, investigate regressions, and roll back where supported. The [update and regression case](cases/case-003.md) shows how that requirement arose.
+
 The [roadmap](roadmap/README.md#branches-by-resources-and-capabilities) shows how the system could develop along several paths, from a small local model on available hardware to a local core that can call selected cloud services or support additional integrations as resources allow.
 
 ## Workstreams

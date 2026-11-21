@@ -2,6 +2,10 @@
 
 Oleksandra sets the criteria for accepting a result. If a result falls short, the lab records the deviation, checks the original request and handover, and identifies who can correct it. The author can examine and respond to findings. The lab records the correction, any change intended to avoid recurrence, and the evidence available after the change.
 
+## What the corrections journal covers
+
+The corrections journal records deviations in the work, including failures in lab scripts or tools supplied by a model provider. A record describes what was observed, its effect on the work, and any action taken. The lab attributes the cause only when the evidence supports it.
+
 ## Project memory across sessions
 
 Oleksandra designed the repository to hold task state, decisions, evidence, corrections and open questions. A receiving session can reconstruct its assignment from the task record and its handover. Before asking Oleksandra to decide, the receiving agent checks that the preparatory work and decision material exist.

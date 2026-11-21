@@ -20,6 +20,9 @@ See the [competencies and evidence map](../competencies/README.md) for Oleksandr
 | Correction records | 33 |
 | Of those records, deviations | 21 |
 | Of those records, follow-up entries | 12 |
+| Correction records listing Oleksandra as the detector | 22 of 33 |
+
+**Owner-detection indicator.** This indicator counts correction records whose detector field lists Oleksandra. The denominator includes initial deviations and follow-up entries, including notes and recurrences. See [what the corrections journal covers](../methodology/quality.md#what-the-corrections-journal-covers).
 
 **How the count was made.** Claude Code compiled the dated snapshot at Oleksandra's request from the lab's private Git history and journal. The table reports selected aggregate counts from that fixed cutoff. A completed task is a journal status. Follow-up records include notes and recurrences. The figures show the scope of recorded activity. The [cases](../cases/README.md) show specific changes that followed review.
 

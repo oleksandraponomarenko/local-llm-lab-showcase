@@ -21,7 +21,7 @@ flowchart TD
     Access --> Home["Possible later home integrations"]
 ```
 
-The technical choices remain conditional on available resources, model support and the owner's priorities. The local-computer and possible hybrid directions are under study. Home integrations have their own access and permission requirements.
+The technical choices remain conditional on available resources, model support and the owner's priorities. The local-computer and possible hybrid directions are under study. In the proposed hybrid design, the local core would send requests to selected cloud services without including Oleksandra’s private context or memory. Home integrations have their own access and permission requirements.
 
 ### Planning for different funding scenarios
 
