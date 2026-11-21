@@ -4,7 +4,7 @@ Public summary of the working roadmap as reviewed in November 2026. An independe
 
 ## Starting point and goal
 
-At the [technical baseline](../evidence/2026-11-20-lab-progress.md), the lab had two candidate tools and had yet to start local inference. It aims to build an owner-controlled system that can adapt to the owner's language, working style and tasks, and to evaluate changes in behaviour against a baseline.
+The [starting resources and working constraints](../evidence/2026-11-20-lab-progress.md#starting-resources-and-working-constraints) describe how the lab began. It aims to build an owner-controlled system that can adapt to the owner's language, working style and tasks, and to evaluate changes in behaviour against a baseline.
 
 ## Branches by resources and capabilities
 

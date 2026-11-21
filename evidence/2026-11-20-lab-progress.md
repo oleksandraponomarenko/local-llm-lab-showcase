@@ -1,6 +1,12 @@
 # Lab progress snapshot, 13–20 November 2026
 
-**Technical baseline, 13 November.** Oleksandra had identified two candidate tools for running a local language model. The lab had yet to launch a local model or set up model memory or fine-tuning. She brought prior research and analytical experience and practical experience working with cloud models.
+## Starting resources and working constraints
+
+Oleksandra started the lab on 13 November 2026 with a 2019 MacBook and an iPhone. She had identified Ollama and LM Studio as candidate tools. Running a local model, setting up model memory, and fine-tuning were still ahead.
+
+Oleksandra runs the lab in her spare time alongside her main paid job, which supports her livelihood. She works with Claude Code through Claude Pro and with Codex through ChatGPT Plus. The available devices, time outside work, and usage limits of both plans shape what the lab can take on at each stage.
+
+See the [competencies and evidence map](../competencies/README.md) for Oleksandra's skills, roles and documented contributions.
 
 **State at the 20 November cutoff.** The lab had a documented research programme, a working governance process for two agents, an emerging product specification and a revised roadmap draft in progress. The technical work was still in the planning stage.
 
