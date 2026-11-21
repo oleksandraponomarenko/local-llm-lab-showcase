@@ -6,7 +6,7 @@ Oleksandra sets the criteria for accepting a result. If a result falls short, th
 
 Oleksandra designed the repository to hold task state, decisions, evidence, corrections and open questions. A receiving session can reconstruct its assignment from the task record and its handover. Before asking Oleksandra to decide, the receiving agent checks that the preparatory work and decision material exist.
 
-The [synthetic task journal](../journal/synthetic-examples/README.md) shows a handover becoming actionable after its missing evidence is supplied. The [handover template](../templates/task-template.md) records the inputs needed to pick up the work.
+See [two documented handovers](../cases/case-004.md) for examples of how agents pick up work from these records. The [synthetic task journal](../journal/synthetic-examples/README.md) shows a handover becoming actionable after its missing evidence is supplied. The [handover template](../templates/task-template.md) records the inputs needed to pick up the work.
 
 ## A check with a defined trigger
 
