@@ -6,7 +6,7 @@ The lab also documents a practical challenge Oleksandra set herself. How far can
 
 **Current stage:** research and planning. The lab has produced requirements, reconciled independent safety studies, and a branching roadmap draft with an independent review. The local model, system integrations and adaptation experiments are planned.
 
-[Competencies and evidence](competencies/README.md) · [Lab progress, 13–20 November 2026](evidence/2026-11-20-lab-progress.md) · [Roadmap](roadmap/README.md)
+[Competencies and evidence](competencies/README.md) · [Lab progress, 13–20 November 2026](evidence/2026-11-20-lab-progress.md) · [Roadmap v2](roadmap/README.md)
 
 ## Why a local language model?
 
@@ -18,20 +18,48 @@ The [roadmap](roadmap/README.md#branches-by-resources-and-capabilities) shows ho
 
 ## Workstreams
 
+The build tree shows how the lab's research, requirements, capabilities and evaluation fit together. The [full roadmap](roadmap/README.md) includes the hardware branches, timeline and conditions for moving between phases.
+
 ```mermaid
-flowchart TB
-    Lab["Local LLM Lab"]
-    Lab --> Management["Management"]
-    Lab --> Design["System design"]
-    Lab --> Learning["Learning and behaviour"]
-    Lab --> Delivery["Build and evaluation"]
-    Management --> Journal["Journal, decisions and quality checks"]
-    Design --> Requirements["Requirements and safety"]
-    Design --> Platform["Platform and resource choices"]
-    Learning --> Behaviour["Reasoning and interaction"]
-    Learning --> Materials["Feedback and case-based materials"]
-    Delivery --> Capabilities["Capabilities by configuration"]
-    Delivery --> Evaluation["Baseline, adaptation and regression checks"]
+mindmap
+  root((Local LLM Lab))
+    Management
+      Journal and decisions
+      Quality checks
+      Glossary
+      Showcase and licences
+      Funding
+    Requirements
+      Goals draft
+      Observability
+      People and access
+      Emergency access
+    Safety
+      Studies and reconciliation
+      Evidence gaps
+      Home action tiers
+    Behaviour
+      Model framework
+      Intent recognition
+      Affect and conversational context
+    Learning
+      Feedback and routes
+      Curriculum
+      Cases for learning
+    Platform
+      Hardware levels 0 to 3
+      Runtime and models
+      Deployment journal
+    Capabilities
+      Text and research
+      Languages and dictation
+      Code
+      Voice
+      Home and household
+    Evaluation
+      Stage examinations
+      General-purpose vs adapted
+      Regression set
 ```
 
 Oleksandra defined four research streams for the plan:
