@@ -1,10 +1,18 @@
 # Local LLM Lab Showcase
 
-Oleksandra is developing a research method and technical plan for a local language model that adapts to one person. The lab documents how she sets the research direction, how agents carry out and check the work, and how results are evaluated.
+Oleksandra started Local LLM Lab to build and evaluate a local language model system that adapts to one person and fits her language, way of thinking, and everyday work.
+
+The lab also documents a practical challenge Oleksandra set herself. How far can one researcher take a technical project by drawing on her own research and quality oversight skills and directing two agents from different model families? The showcase traces what she designed, decided, and reviewed, what the agents contributed, and what the team has produced so far.
 
 **Current stage:** research and planning. The lab has produced requirements, reconciled independent safety studies, and a branching roadmap draft with an independent review. The local model, system integrations and adaptation experiments are planned.
 
 [Competencies and evidence](competencies/README.md) · [Lab progress, 13–20 November 2026](evidence/2026-11-20-lab-progress.md) · [Roadmap](roadmap/README.md)
+
+## Why a local language model?
+
+Oleksandra wants a system that can carry useful context and feedback from one task to the next, so she can pick up work without explaining her preferences from scratch. A local core gives her control over what the system remembers, what it shares, and when it changes. The lab will test whether adaptation improves the system’s usefulness across her tasks and whether those gains carry over when she changes models.
+
+The [roadmap](roadmap/README.md#branches-by-resources-and-capabilities) shows how the system could develop along several paths, from a small local model on available hardware to a local core that can call selected cloud services or support additional integrations as resources allow.
 
 ## Workstreams
 
