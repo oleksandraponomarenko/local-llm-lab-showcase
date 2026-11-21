@@ -1,5 +1,5 @@
 # Evaluation evidence
 
-This section will link results to their methods, artifacts and limits.
-
-See the [evaluation summary](evaluation-summary.md).
+- [Lab progress snapshot, 13–20 November 2026](2026-11-20-lab-progress.md)
+- [Planned checks for adaptation](adaptation-evaluation-plan.md)
+- [Evaluation summary template](evaluation-summary.md)

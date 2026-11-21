@@ -1,3 +1,5 @@
-# Journal
+# How the task journal works
 
-A public example illustrates how tasks, decisions, corrections and observations relate. See the [synthetic journal](synthetic-examples/README.md).
+The task board tracks what is due from executors, reviewers and the research lead. Tasks show their state and what evidence is needed for the next step. The decision, correction and observation records explain what changed and why.
+
+The [synthetic example](synthetic-examples/README.md) follows a task from assignment through independent review to the research lead's decision.
