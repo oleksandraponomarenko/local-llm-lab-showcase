@@ -10,7 +10,7 @@ The lab also documents a practical challenge Oleksandra set herself. How far can
 
 ## Why a local language model?
 
-Oleksandra wants a system that can carry useful context and feedback from one task to the next, so she can pick up work without explaining her preferences from scratch. A local core gives her control over what the system remembers, what it shares, and when it changes. The lab will test whether adaptation improves the system’s usefulness across her tasks and whether those gains carry over when she changes models.
+The system should do the work of adapting to Oleksandra so she can speak and work in her own way, with less need to rephrase requests to suit the model. The lab will investigate whether a system can adapt to how she reasons, the language she uses, what she already knows, and how her intentions and signals change with the situation. The same words can call for different responses depending on what came before, how tasks depend on one another, what she has corrected, and what she is trying to do now. A local core would let her carry useful context and feedback forward while controlling what the system remembers, what it shares, and when it changes. The lab will test whether adaptation makes the system more useful across her tasks and whether those gains carry over when she changes models.
 
 The [roadmap](roadmap/README.md#branches-by-resources-and-capabilities) shows how the system could develop along several paths, from a small local model on available hardware to a local core that can call selected cloud services or support additional integrations as resources allow.
 
