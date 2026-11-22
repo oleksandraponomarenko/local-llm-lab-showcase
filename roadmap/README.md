@@ -146,7 +146,7 @@ flowchart TD
 
 ## 5. People, access and safety in the home
 
-This is design input for P2. Voice can make an interaction easier. Authorisation depends on the person's access and the action's risk.
+This is design input for P2. Voice can make an interaction easier. Authorisation depends on the person's access and the action's risk. The [safety and memory diagrams](safety-and-memory.md) show the permission checks, open design choices and planned recovery tests.
 
 - **Owner.** Administers the system through an authenticated interface.
 - **Other people.** Receive scoped access. The system limits what can be requested at each access level and on each device.

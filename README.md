@@ -18,7 +18,7 @@ The [roadmap](roadmap/README.md#branches-by-resources-and-capabilities) shows ho
 
 ## Workstreams
 
-The build tree shows how the lab's research, requirements, capabilities and evaluation fit together. The [full roadmap](roadmap/README.md) includes the hardware branches, timeline and conditions for moving between phases.
+The build tree shows how the lab's research, requirements, capabilities and evaluation fit together. The [full roadmap](roadmap/README.md) includes the hardware branches, timeline and conditions for moving between phases. The [safety and memory diagrams](roadmap/safety-and-memory.md) trace the permission and recovery decisions the lab plans to test.
 
 ```mermaid
 mindmap
