@@ -81,13 +81,17 @@ flowchart TD
     E1 --> S["Define access and action tiers before connecting devices"]
 ```
 
+### Planning for different funding scenarios
+
+Funding runs alongside the roadmap. Available resources determine which hardware paths the lab can consider, while research and evaluation continue at the current level. Each hardware purchase is a separate decision supported by dated evidence on cost and capability.
+
 ### Illustrative hardware levels
 
 These configurations help compare options. Actual capacity depends on the model, quantisation, context size, runtime and workload.
 
 | Level | Example configuration | Indicative cost | What it could enable |
 |---|---|---|---|
-| 0 | Existing Intel MacBook and iPhone; cloud API where useful | TBC | Small-model baseline, method and evaluation work. The working draft does not plan local fine-tuning at this level. |
+| 0 | Existing Intel MacBook and iPhone; cloud API where useful | Existing devices and current subscriptions | Small-model baseline, method and evaluation work. The working draft does not plan local fine-tuning at this level. |
 | 1 | Used PC with a 24 GB GPU, or a 64 GB Mac mini configuration | TBC | Evaluation of 14–32B models in suitable configurations, local voice and code assistance, and LoRA on 7–14B models where feasible |
 | 2 | A 128 GB unified-memory system, with Strix Halo, DGX Spark or Mac Studio Max as examples to investigate, or two 24 GB GPUs | TBC | Evaluate 70B dense models at potentially limited speed and larger mixture-of-experts models such as gpt-oss-120b. Assess QLoRA with the chosen hardware and runtime. |
 | 3 | A workstation with a 96 GB professional GPU, or a Mac Studio Ultra with 256 GB of unified memory or more | TBC | Evaluation of which tasks a larger local system can handle in place of cloud services |

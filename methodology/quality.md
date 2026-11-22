@@ -14,7 +14,7 @@ See [two documented handovers](../cases/case-004.md) for examples of how agents 
 
 ## A check with a defined trigger
 
-After a duplicate decision identifier was found, an agent proposed a checker. A second agent implemented it and the first independently tested it. Oleksandra specified that it runs before every commit that changes the journal and during end-of-session review. While this workflow was being prepared, the checker flagged a repeated decision identifier before a commit. The identifier was corrected and the check rerun.
+After a duplicate decision identifier was found, an agent proposed a checker. A second agent implemented it and the first independently tested it. Oleksandra specified that it runs before every commit that changes the journal and during end-of-session review. While this workflow was being prepared, the checker flagged a repeated decision identifier before a commit. The identifier was corrected and the check rerun. On 22 November 2026, the same checker caught another duplicate decision identifier before a commit.
 
 The check covers journal structure and supported identifier references. Reviewers still check whether a valid reference is the intended one.
 
